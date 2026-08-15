@@ -94,3 +94,4 @@ Tysen Xylix Ω 是一款本地运行的图片转矢量图工具，支持两种�
 ## 十、关于
 
 软件作者为 XGPU999。如果你的软件支付价格大于一分钱，恭喜你中大奖了！如果你觉得好用，请请作者吃一块钱的棒棒糖 🍭。开发过程中使用了 AI 辅助工具（Claude、DeepSeek、OpenAI Codex 等），并使用了 Anyline、Anime2Sketch、ControlNet、GroundingDINO、SAM2、Real-ESRGAN、AniLines、MangaLine、vtracer、resvg、OpenCV、PyTorch 等开源模型与库，感谢原作者。详细许可见程序目录 `THIRD_PARTY_NOTICES.md`。
+云盘https://1drv.ms/f/c/70496664fdfefb34/IgCggqNnoPcbQIOaNjkC_WAzAZe9HmQH0TqL54CSHIvg69w?e=SdcEe2
